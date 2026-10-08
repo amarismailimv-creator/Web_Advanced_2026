@@ -1,0 +1,22 @@
+p{
+margin-left: 100px;
+margin-bottom: 50px;
+
+
+}
+
+div{
+border:5px solid blue;
+width: 300px;
+margin: 20px;
+padding: 50px;
+
+}
+
+
+body{
+background: url("images.png");
+background-size: cover;
+
+
+}
