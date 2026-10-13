@@ -1,0 +1,54 @@
+h1{
+color: green;
+letter-spacing:8px;
+word-spacing: 20px;
+text-align: center;
+}
+
+
+
+h2{
+    text-decoration: overline;
+}
+h3{
+    text-decoration: line-through;}
+h4{color: green;
+    text-decoration: underline;}
+p{
+text-indent: 50px;
+text-align: center;
+/*writing-mode: vertical-lr;*/
+
+
+}
+.element{
+    color: orange !important; 
+}
+
+
+#normaltext{
+    font-style: normal;
+    font-weight: normal;
+}
+
+#italictext{
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+#obliquetext{
+    font-style: oblique;
+    font-weight: 900;
+}
+
+
+a:link{
+    color: green;
+}
+
+a:visited{color: blue;}
+
+a:hover{color: hotpink;}
+
+a:active{color: red;}
